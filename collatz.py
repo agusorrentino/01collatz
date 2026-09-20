@@ -7,6 +7,8 @@ print("gimma numba")
 
 n = int(input())
 
+print("hola ")
+
 for i in range(1, n + 1):
 
     seq = []
